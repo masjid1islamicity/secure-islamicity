@@ -1,0 +1,7 @@
+{
+  "name": "Sematang Borang IoT Security Cloud",
+  "description": "Smart IoT security infrastructure platform for security.sematangborangcity.cloud with D3 geographic heatmap visualization of city zones, automated Threat Campaign incident clustering algorithms, 24-hour predictive threat forecasting with Recharts, real-time multi-pillar anomaly detection, SOAR mitigation, audible hands-free alerts, downloadable PDF compliance reports, and AI root-cause diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
